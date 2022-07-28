@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njorquera98&label=Profile%20views&color=0e75b6&style=flat" alt="njorquera98" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@joker____98" target="blank"><img src="https://img.shields.io/twitter/follow/@joker____98?logo=twitter&style=for-the-badge" alt="@joker____98" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Joker____98" target="blank"><img src="https://img.shields.io/twitter/follow/@joker____98?logo=twitter&style=for-the-badge" alt="@joker____98" /></a> </p>
 
 - 🌱 I’m currently learning **Node JS**
 
