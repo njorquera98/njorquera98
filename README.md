@@ -88,7 +88,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorquera98&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorquera98&theme=radical&card_width=450em)](https://github.com/njorquera98/njorquera98/github-readme-stats"align="center" /></div>  
 
 <br/>  
 
