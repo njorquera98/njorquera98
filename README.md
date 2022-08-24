@@ -8,7 +8,7 @@
 ### <div align="center">I'm Nicolas, a full-time full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Ayudantias-DICI](https://github.com/njorquera98/Ayudantias-DICI)  
   
 
 - 🌱 I’m currently learning Node JS  
