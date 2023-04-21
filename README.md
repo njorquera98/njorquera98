@@ -5,7 +5,7 @@
      { 
       "LinkedIn"  : "https://www.linkedin.com/in/nicolas-jorquera-araya-72758a224/", 
       "Instagram" : "https://instagram.com/joker__.98",
-      "Twitter"   : "https://twitter.com/Joker____98""
+      "Twitter"   : "https://twitter.com/Joker____98"
      }
  }
 ```
