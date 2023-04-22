@@ -1,5 +1,6 @@
 ```shell
- { “name” : “Nicolas Jorquera Araya”,
+ { 
+   “name” : “Nicolas Jorquera Araya”,
    “role” : “Full Stack Dev”,
    “data” : 
      { 
