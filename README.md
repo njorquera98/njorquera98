@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-## 🎵Spotify Playing
+## 🎵 Spotify Playing
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nicolas.jorquera98-cl&cover_image=true&theme=default&bar_color_cover=true" /></div>  
