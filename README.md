@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
   
-## Github Stats  
+## GitHub Stats  
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-## I love music! | Spotify Playing
+## 🎵Spotify Playing
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nicolas.jorquera98-cl&cover_image=true&theme=default&bar_color_cover=true" /></div>  
