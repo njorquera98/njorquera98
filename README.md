@@ -60,7 +60,7 @@
 ## 🎵 Spotify Playing
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nicolas.jorquera98-cl&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+<div align="center"><img href = "https://open.spotify.com/user/nicolas.jorquera98-cl?si=9beead665b2541bb" src="https://spotify-github-profile.vercel.app/api/view?uid=nicolas.jorquera98-cl&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
 <br/>  
 
