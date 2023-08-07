@@ -4,7 +4,7 @@
    “role” : “Full Stack Dev”,
    “data” : 
      { 
-      "LinkedIn"  : "https://www.linkedin.com/in/nicolas-jorquera-araya-72758a224/", 
+      "LinkedIn"  : "https://www.linkedin.com/in/njorquera98/", 
       "Instagram" : "https://instagram.com/joker__.98",
       "Twitter"   : "https://twitter.com/Joker____98"
      }
