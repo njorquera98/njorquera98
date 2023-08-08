@@ -51,10 +51,10 @@
   
 ## GitHub Stats  
 
-<table>
+<table align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorquera98&theme=radical&card_width=450em)](https://github.com/njorquera98/njorquera98/github-readme-stats"/></td>
-    <td align="center" ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=njorquera98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorquera98&theme=blue-green"/></td>
+    <td align="center" ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=njorquera98&theme=blue-green"/></td>
   </tr>
 </table>
 
