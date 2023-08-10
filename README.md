@@ -51,14 +51,17 @@
   
 ## 📈 GitHub Stats  
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=njorquera98&theme=monokai&show_icons=true&hide_border=true&count_private=true"/>
-  </div>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorquera98&theme=monokai&show_icons=true&hide_border=true&layout=compact"/>
-  </div>
-</div>
+<table style="border-collapse: collapse; border: none;" align="center">
+  <tr>
+    <td style="border: none; padding: 0;" align="center"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=njorquera98&theme=monokai&show_icons=true&hide_border=true&count_private=true" /> 
+    </td>
+    <td style="border: none; padding: 0;" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njorquera98&theme=monokai&show_icons=true&hide_border=true&layout=compact" style="width: 350px;"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 🎵 Spotify Playing
 <br/>  
