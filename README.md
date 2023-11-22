@@ -35,14 +35,12 @@
 </p>  
   
 ### Database
-
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  
 </p>
  
 ### Tools & Technologies
-
 <p>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -51,7 +49,6 @@
 </p>
   
 ## 📈 GitHub Stats  
-
 <table style="border-collapse: collapse; border: none;" align="center">
   <tr>
     <td style="border: none; padding: 0;" align="center"> 
@@ -66,17 +63,13 @@
 
 ## 🎵 Spotify Playing
 <br/>  
-
 <div align="center">
  <a href = "https://open.spotify.com/user/nicolas.jorquera98-cl?si=9beead665b2541bb">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=nicolas.jorquera98-cl&cover_image=true&theme=default&bar_color_cover=true" />
  </a>
 </div>  
-
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=njorquera98&&style=flat-square" align="center" />
 </div>  
-
 <br/>
