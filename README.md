@@ -59,7 +59,6 @@
   </tr>
 </table>
 
-
 ## 🎵 Spotify Playing
 <br/>  
 <div align="center">
