@@ -63,7 +63,7 @@
 <br/>  
 <div align="center">
   <a href="https://open.spotify.com/user/nicolas.jorquera98-cl?si=9beead665b2541bb">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=nicolas.jorquera98-cl&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f4005f&bar_color_cover=true"
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nicolas.jorquera98-cl&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true"
          style="width: 40%; height: auto;" />
   </a>
 </div>
