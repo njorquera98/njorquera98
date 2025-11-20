@@ -1,7 +1,8 @@
 ```shell
  { 
-   “name” : “Nicolas Jorquera Araya”,
-   “role” : “Full Stack Dev”,
+   “name” : “Nicolás Jorquera Araya”,
+   “role” : “Tech Lead & Project Manager | Software Engineer”,
+   "company": "Acotango",
    “data” : 
      { 
       "LinkedIn"  : "https://www.linkedin.com/in/njorquera98/", 
