@@ -45,12 +45,14 @@
  
 ### Tools & Technologies
 <p>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> 
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white">
   <img src= "https://img.shields.io/badge/WezTerm-4E49EE.svg?style=for-the-badge&logo=WezTerm&logoColor=white">
   <img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+
 </p>
-  
+<!--
 ## 📈 GitHub Stats  
 <table style="border-collapse: collapse; border: none;" align="center">
   <tr>
@@ -62,8 +64,10 @@
     </td>
   </tr>
 </table>
+-->
 
-## 🎵 Spotify Playing
+## 🎵 Spotify Playing  
+
 <br/>  
 <div align="center">
   <a href="https://open.spotify.com/user/nicolas.jorquera98-cl?si=9beead665b2541bb">
