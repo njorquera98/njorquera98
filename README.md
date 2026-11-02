@@ -70,7 +70,7 @@
 
 <br/>  
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://open.spotify.com/user/nicolas.jorquera98-cl">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nicolas.jorquera98-cl&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&mode=dark&bar_color=53b14f&bar_color_cover=false">
   </a>
 </div>
